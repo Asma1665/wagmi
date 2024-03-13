@@ -1,5 +1,11 @@
 # @wagmi/core
 
+## 2.6.7
+
+### Patch Changes
+
+- [`f5648dd2`](https://github.com/wevm/wagmi/commit/f5648dd28b3576b628f57732b89287f55acbb1c1) Thanks [@jxom](https://github.com/jxom)! - Updated `prepareTransactionRequest` types for `viem@2.8.0`.
+
 ## 2.6.6
 
 ### Patch Changes
